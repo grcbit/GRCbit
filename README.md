@@ -7,3 +7,5 @@ GRCbit es un software desarrollado en python/web2py que le ayudará a automatiza
 Está basado en mejores prácticas de gestión de riesgos y control interno como COSO, ISO 31000, COBIT, NIST, CVSS3.1, por lo que cualquier empresa sin importar su tipo o tamaño puede utilizarlo, lo cual traerá beneficios como: Cumplir con leyes y regulaciones, Reducir fraudes, Reducir de errores en la operación, Proteger datos críticos y sistemas de información.
 
 ![](grc1.png)
+![](grc2.png)
+![](grc3.png)
